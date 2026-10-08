@@ -16,3 +16,8 @@ This repository will contain data analysis projects focused on data cleaning, ex
 ## Projects
 
 Projects are currently in progress.
+## Current Focus
+
+- Exploratory Data Analysis
+- Power BI
+- Business-focused analytics projects
